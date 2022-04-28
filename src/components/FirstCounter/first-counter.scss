@@ -1,0 +1,13 @@
+.first-counter {
+    display: flex;
+    border: 1px solid #000;
+    max-width: max-content;
+    padding: 15px;
+    align-items: center;
+    gap: 15px;
+}
+
+.first-counter__text {
+    padding: 10px;
+    border: 1px solid #000;
+}

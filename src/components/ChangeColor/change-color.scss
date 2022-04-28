@@ -1,0 +1,12 @@
+.color-box {
+    width: 70px;
+    height: 70px;
+}
+
+.color-wrapper {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    max-width: max-content;
+    gap: 15px;
+}

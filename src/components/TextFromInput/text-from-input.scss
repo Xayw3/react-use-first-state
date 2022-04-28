@@ -1,0 +1,15 @@
+.input-box__input {
+    padding: 5px 15px;
+    border: 1px solid #000;
+    max-width: 170px;
+}
+
+.input-box {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.input-box__btn {
+    max-width: max-content;
+}

@@ -1,0 +1,17 @@
+.number-actions__wrapper {
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.number-actions__num {
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+.number-actions__btns {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
